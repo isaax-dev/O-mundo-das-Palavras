@@ -1,0 +1,104 @@
+h1 {
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(171, 233, 171);
+    font-family: Arial;
+    font-style: italic;
+
+}
+
+.sub1 {
+    margin: 0;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    font-family: Courier;
+
+
+}
+
+body {
+    background-color: lightcyan;
+    
+}
+
+.irparapag1 {
+    background-color: rgb(0, 255, 76);
+    border: none;
+    border-radius: 17px;
+    width: 120px;
+    height: 56px;
+    color: black;
+    font-size: 1.5rem;
+    font-family: Arial;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(265px, 55%);
+ 
+    
+}
+
+.livros {
+    background-color: chartreuse;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ind {
+    background-color: rgb(0, 174, 255);
+    font-family: Georgia;
+    font-style: italic;
+
+}
+
+.ind1 {
+    height: 140px;
+}
+
+.sub3 {
+    padding: 0px;
+    transform: translate(0, -23px);
+}
+
+.ind2 {
+    height: 140px;
+    
+}
+
+.sub2 {
+    background-color: rgb(132, 212, 156);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sub4 {
+    padding: 0px;
+    transform: translate(0, -23px);
+    
+}
+
+.ind3 {
+    height: 140px;
+}
+
+.sub5 {
+    padding: 0px;
+    transform: translate(0, -23px);
+}
+
+.ind4 {
+    height: 140px;
+}
+.sub6 {
+    padding: 0px;
+    transform: translate(0, -23px);
+
+}
+
+

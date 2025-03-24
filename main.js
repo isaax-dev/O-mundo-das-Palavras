@@ -1,0 +1,1 @@
+alert("você entrou em: O Mundo das palavras")
